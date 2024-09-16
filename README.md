@@ -62,9 +62,14 @@ Given the complex nature of multimodal posts, where labels for text and images m
 <head>
     <title>Feedback Form</title>
 </head>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Feedback Form</title>
+</head>
 <body>
     <h2>Feedback Form</h2>
-    <form action="https://example.com/submit" method="post">
+    <form action="https://formspree.io/f/YourFormID" method="POST">
         <label for="name">Name:</label><br>
         <input type="text" id="name" name="name"><br><br>
 
@@ -78,3 +83,4 @@ Given the complex nature of multimodal posts, where labels for text and images m
     </form>
 </body>
 </html>
+
