@@ -47,40 +47,6 @@ Given the complex nature of multimodal posts, where labels for text and images m
 | Non-Informative          | 2148 
 
 # Example of an HTML Form in Markdown
+<iframe src="https://docs.google.com/forms/d/e/YourGoogleFormID/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<form action="/submit" method="post">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name"><br><br>
-
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email"><br><br>
-
-  <input type="submit" value="Submit">
-</form>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Feedback Form</title>
-</head>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Feedback Form</title>
-</head>
-<body>
-    <h2>Feedback Form</h2>
-    <form action="https://formspree.io/f/YourFormID" method="POST">
-        <label for="name">Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
-
-        <label for="email">Email:</label><br>
-        <input type="email" id="email" name="email"><br><br>
-
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message"></textarea><br><br>
-
-        <input type="submit" value="Submit">
-    </form>
-</body>
-</html>
 
