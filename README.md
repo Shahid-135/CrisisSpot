@@ -47,6 +47,16 @@ Given the complex nature of multimodal posts, where labels for text and images m
 | Non-Informative          | 2148 
 
 # Example of an HTML Form in Markdown
-<iframe src="https://docs.google.com/forms/d/e/YourGoogleFormID/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dataset Request Form</title>
+</head>
+<body>
+    <h1>Request Dataset Access</h1>
+    <iframe src="https://docs.google.com/forms/d/e/YourGoogleFormID/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</body>
+</html>
+
 
 
