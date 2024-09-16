@@ -54,7 +54,7 @@ Given the complex nature of multimodal posts, where labels for text and images m
 </head>
 <body>
     <h1>Request Dataset Access</h1>
-    <iframe src="https://docs.google.com/forms/d/e/YourGoogleFormID/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    "https://docs.google.com/forms/d/e/YourGoogleFormID/viewform?embedded=true" width="640"
 </body>
 </html>
 
