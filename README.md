@@ -46,25 +46,11 @@ Given the complex nature of multimodal posts, where labels for text and images m
 | At least one Informative | 8187  |
 | Non-Informative          | 2148 
 
-# Example of an HTML Form in Markdown
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Dataset Request Form</title>
-</head>
-<body>
-    <h1>Request Dataset Access</h1>
-    https://docs.google.com/forms/d/e/1FAIpQLSdklbRkvXfqMp9tKQj-Ue1oFy-XKVIkv_DqARgyjwWLJxracg/viewform?embedded=true
-</body>
-</html>
-
 ### Dataset Access
-
 Access to the dataset is restricted to academic and research purposes. To request access, please complete the following steps:
 
-1. Fill out the [Dataset Request Form](https://forms.gle/YourGoogleFormID) with your details.
-2. **Important:** Use your **institutional email address** (e.g., `@university.edu` or `@researchinstitute.org`) when submitting the form. Requests from personal email addresses (such as Gmail, Yahoo, etc.) will not be considered.
-3. Provide a brief description of your research project or intended use of the dataset.
+1. Fill out the [Dataset Request Form]( https://docs.google.com/forms/d/e/1FAIpQLSdklbRkvXfqMp9tKQj-Ue1oFy-XKVIkv_DqARgyjwWLJxracg/viewform?embedded=true) with your details.
+2. **Important:** Use your **institutional email address** when submitting the form. Requests from personal email addresses (such as Gmail, Yahoo, etc.) will not be considered.
 
 Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
 
