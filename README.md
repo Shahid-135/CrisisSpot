@@ -57,7 +57,7 @@ Given the complex nature of multimodal posts, where labels for text and images m
 # Dataset Access
 **Access to the dataset is restricted to academic and research purposes. To request access, please ensure compliance with the following requirements:**
 
-- **Non-Commercial Use**: The dataset is provided exclusively for academic research and non-commercial purposes. Any form of commercial use—direct or indirect—is strictly prohibited. It must not be used to develop or market commercial products or services.
+- **Non-Commercial Use**: The dataset is provided exclusively for academic research and non-commercial purposes. Any form of commercial use direct or indirect is strictly prohibited. It must not be used to develop or market commercial products or services.
 
 - **No Redistribution**: The dataset must not be redistributed, republished, or shared in any form, whether in full or in part, across any public or private repositories, platforms, or social media. Users must store the dataset in secure environments and ensure that unauthorized parties do not gain access.
 
