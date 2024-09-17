@@ -5,7 +5,7 @@ We propose a novel framework, **CrisisSpot**, designed to effectively identify c
 
 1. **Feature Extraction and Interaction Module:** Orchestrates interaction between text and visual modalities via an IDEA attention mechanism.
 
-2. **Multimodal Graph Learning:** Enriches features extracted from a multimodal encoder and then reconstructed enriched features through a GraphSAGE layer.
+2. **Multimodal Graph Learning Module:** Enriches features extracted from a multimodal encoder and then reconstructed enriched features through a GraphSAGE layer.
 
 3. **Social Context Feature Extraction:** Extracts diverse attributes such as crisis-related information and user interaction history, quantified by metrics like User Informative Score (UIS), Crisis Informative Score (CIS), and User Engagement.
 
