@@ -55,7 +55,15 @@ Given the complex nature of multimodal posts, where labels for text and images m
 | Non-Informative          | 2148 
 
 # Dataset Access
-Access to the dataset is restricted to academic and research purposes. To request access, please complete the following steps:
+**Access to the dataset is restricted to academic and research purposes. To request access, please ensure compliance with the following requirements:**
+
+- **Non-Commercial Use**: The dataset is provided exclusively for academic research and non-commercial purposes. Any form of commercial use—direct or indirect—is strictly prohibited. It must not be used to develop or market commercial products or services.
+
+- **No Redistribution**: The dataset must not be redistributed, republished, or shared in any form, whether in full or in part, across any public or private repositories, platforms, or social media. Users must store the dataset in secure environments and ensure that unauthorized parties do not gain access.
+
+- **Compliance with Twitter Policies**: As the dataset is based on publicly available Twitter data, all users must adhere to Twitter’s Developer Agreement and Policy. This includes respecting Twitter’s terms of data usage, user privacy, and ensuring that no actions violate Twitter's content redistribution policies.
+
+- **Academic Integrity**: The dataset must only be used for legitimate academic research. Researchers are responsible for ensuring that their use of the dataset does not contravene any ethical standards, particularly regarding data privacy and responsible usage.
 
 1. Fill out the [Dataset Request Form]( https://docs.google.com/forms/d/e/1FAIpQLSdklbRkvXfqMp9tKQj-Ue1oFy-XKVIkv_DqARgyjwWLJxracg/viewform?embedded=true) with your details.
 2. **Important:** Use your **institutional email address** when submitting the form. Requests from personal email addresses (such as Gmail, Yahoo, etc.) will not be considered.
