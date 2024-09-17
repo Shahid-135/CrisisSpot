@@ -86,19 +86,6 @@ If you use this dataset in your research, please cite it as follows:
 </pre>
 
 <button onclick="copyToClipboard()">Copy Citation</button>
-
-<script>
-function copyToClipboard() {
-  const citation = document.getElementById('citation').innerText;
-  navigator.clipboard.writeText(citation).then(() => {
-    alert("Citation copied to clipboard!");
-  }).catch(err => {
-    console.error('Error copying text: ', err);
-  });
-}
-</script>
-
 </body>
 </html>
-
 
