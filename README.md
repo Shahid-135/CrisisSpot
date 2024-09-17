@@ -58,5 +58,14 @@ Given the complex nature of multimodal posts, where labels for text and images m
 </body>
 </html>
 
+### Dataset Access
+
+Access to the dataset is restricted to academic and research purposes. To request access, please complete the following steps:
+
+1. Fill out the [Dataset Request Form](https://forms.gle/YourGoogleFormID) with your details.
+2. **Important:** Use your **institutional email address** (e.g., `@university.edu` or `@researchinstitute.org`) when submitting the form. Requests from personal email addresses (such as Gmail, Yahoo, etc.) will not be considered.
+3. Provide a brief description of your research project or intended use of the dataset.
+
+Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
 
 
