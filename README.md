@@ -11,7 +11,12 @@ We propose a novel framework, **CrisisSpot**, designed to effectively identify c
 
 4. **Multimodal Fusion Module:** Processes fused features from the previous modules, integrating them via a Joint Fusion Learning Network for effective crisis-related information discernment.
 
+### CrisisSpot Architecture
 
+Below are the key components of the **CrisisSpot architecture**:
+
+![CrisisSpot Architecture Part 1](images/crisisspot_architecture1.png)
+*Figure 1: High-level overview of the CrisisSpot architecture.*
 
 # TSEqD: Turkey-Syria Earthquake Dataset
 The TSEqD multimodal Twitter dataset is a comprehensive collection of manually annotated comprising 10,352 tweets and associated images obtained during the period from February 6, 2023, to March 16, 2023. TSEqD is annotated for two distinct tasks: Informative Tasks and Humanitarian Tasks. The process of data curation, annotation, and label distribution across various classes is elaborated in subsequent sections, ensuring a comprehensive understanding of the dataset's composition and utility.
