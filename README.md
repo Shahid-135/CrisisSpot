@@ -85,7 +85,6 @@ If you use this dataset in your research, please cite it as follows:
 </code>
 </pre>
 
-<button onclick="copyToClipboard()">Copy Citation</button>
+<button onclick="copyToClipboard()"></button>
 </body>
 </html>
-
