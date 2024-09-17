@@ -53,22 +53,12 @@ Access to the dataset is restricted to academic and research purposes. To reques
 
 Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
 
-### Citation
 
-If you use this dataset in your research, please cite it as follows:
-@article{DAR2025125337, title = {A social context-aware graph-based multimodal attentive learning framework for disaster content classification during emergencies}, journal = {Expert Systems with Applications}, volume = {259}, pages = {125337}, year = {2025}, issn = {0957-4174}, doi = {https://doi.org/10.1016/j.eswa.2024.125337}, url = {https://www.sciencedirect.com/science/article/pii/S0957417424022048}, author = {Shahid Shafi Dar and Mohammad Zia Ur Rehman and Karan Bais and Mohammed Abdul Haseeb and Nagendra Kumar} }
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Citation with Copy Button</title>
-</head>
 <body>
-
 <h2>Citation</h2>
 <p>If you use this dataset in your research, please cite it as follows:</p>
-
 <pre>
 <code id="citation">
 @article{DAR2025125337,
