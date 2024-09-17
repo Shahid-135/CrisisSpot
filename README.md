@@ -15,9 +15,11 @@ We propose a novel framework, **CrisisSpot**, designed to effectively identify c
 
 Below is the architecture of the **CrisisSpot** framework:
 
-![CrisisSpot Architecture](https://raw.githubusercontent.com/Shahid-135/CrisisSpot/main/final_arch.png)
-*Figure 1: Overview of the CrisisSpot architecture.*
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shahid-135/CrisisSpot/main/final_arch.png" alt="CrisisSpot Architecture" width="600"/>
+  <br>
+  <em>Figure 1: Overview of the CrisisSpot architecture.</em>
+</p>
 
 # TSEqD: Turkey-Syria Earthquake Dataset
 The TSEqD multimodal Twitter dataset is a comprehensive collection of manually annotated comprising 10,352 tweets and associated images obtained during the period from February 6, 2023, to March 16, 2023. TSEqD is annotated for two distinct tasks: Informative Tasks and Humanitarian Tasks. The process of data curation, annotation, and label distribution across various classes is elaborated in subsequent sections, ensuring a comprehensive understanding of the dataset's composition and utility.
