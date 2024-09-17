@@ -3,13 +3,13 @@
 
 We propose a novel framework, **CrisisSpot**, designed to effectively identify crisis-related information. It consists of four integral components:
 
-1. **Feature Extraction and Interaction Module** Orchestrates interaction between text and visual modalities via an IDEA attention mechanism.
+1. **Feature Extraction and Interaction Module** orchestrates interaction between text and visual modalities via an IDEA attention mechanism.
 
-2. **Multimodal Graph Learning Module** Enriches features extracted from a multimodal encoder and then reconstructed enriched features through a GraphSAGE layer.
+2. **Multimodal Graph Learning Module** enriches features extracted from a multimodal encoder and then reconstructed enriched features through a GraphSAGE layer.
 
-3. **Social Context Feature Extraction** Extracts diverse attributes such as crisis-related information and user interaction history, quantified by metrics like User Informative Score (UIS), Crisis Informative Score (CIS), and User Engagement.
+3. **Social Context Feature Extraction** extracts diverse attributes such as crisis-related information and user interaction history, quantified by metrics like User Informative Score (UIS), Crisis Informative Score (CIS), and User Engagement.
 
-4. **Multimodal Fusion Module** Processes fused features from the previous modules, integrating them via a Joint Fusion Learning Network for effective crisis-related information discernment.
+4. **Multimodal Fusion Module** processes fused features from the previous modules, integrating them via a Joint Fusion Learning Network for effective crisis-related information discernment.
 
 ### CrisisSpot Architecture
 
