@@ -1,5 +1,4 @@
-## Future Availability:
-We plan to make the code and data publicly available upon acceptance of the manuscript. 
+
 ## CrisisSpot
 
 We propose a novel framework, **CrisisSpot**, designed to effectively identify crisis-related information. It consists of four integral components:
