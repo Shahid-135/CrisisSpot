@@ -1,5 +1,5 @@
 
-### CrisisSpot
+# CrisisSpot
 
 We propose a novel framework, **CrisisSpot**, designed to effectively identify crisis-related information. It consists of four integral components:
 
