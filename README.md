@@ -54,7 +54,7 @@ Given the complex nature of multimodal posts, where labels for text and images m
 | At least one Informative | 8187  |
 | Non-Informative          | 2148 
 
-### Dataset Access
+# Dataset Access
 Access to the dataset is restricted to academic and research purposes. To request access, please complete the following steps:
 
 1. Fill out the [Dataset Request Form]( https://docs.google.com/forms/d/e/1FAIpQLSdklbRkvXfqMp9tKQj-Ue1oFy-XKVIkv_DqARgyjwWLJxracg/viewform?embedded=true) with your details.
@@ -66,7 +66,7 @@ Once your request is reviewed and approved, you will receive an email with instr
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<h2>Citation</h2>
+<h1>Citation</h1>
 <p>If you use this dataset in your research, please cite it as follows:</p>
 <pre>
 <code id="citation">
