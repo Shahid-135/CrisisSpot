@@ -70,6 +70,9 @@ Given the complex nature of multimodal posts, where labels for text and images m
 
 Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
 
+## Precomputed Embeddings
+
+We are providing the precomputed embeddings for this dataset, which can be directly utilized for various downstream tasks such as classification, clustering, or similarity analysis. These embeddings are optimized for performance and can help accelerate your research by enabling quick experimentation without the need for extensive preprocessing.
 
 <!DOCTYPE html>
 <html lang="en">
