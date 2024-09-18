@@ -95,3 +95,44 @@ Once your request is reviewed and approved, you will receive an email with instr
 <button onclick="copyToClipboard()"></button>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Citation</title>
+</head>
+<body>
+<h1>Kindly Cite Our Work or Dataset</h1>
+<p>If you use our work or dataset in your research, we would greatly appreciate it if you cite it as follows:</p>
+<pre>
+<code id="citation">
+@article{DAR2025125337,
+  title = {A social context-aware graph-based multimodal attentive learning framework for disaster content classification during emergencies},
+  journal = {Expert Systems with Applications},
+  volume = {259},
+  pages = {125337},
+  year = {2025},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2024.125337},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417424022048},
+  author = {Shahid Shafi Dar and Mohammad Zia Ur Rehman and Karan Bais and Mohammed Abdul Haseeb and Nagendra Kumar}
+}
+</code>
+</pre>
+
+<button onclick="copyToClipboard()">Copy Citation</button>
+
+<script>
+function copyToClipboard() {
+  var citation = document.getElementById("citation").innerText;
+  navigator.clipboard.writeText(citation).then(function() {
+    alert('Citation copied to clipboard');
+  }, function(err) {
+    console.error('Error copying citation: ', err);
+  });
+}
+</script>
+
+</body>
+</html>
