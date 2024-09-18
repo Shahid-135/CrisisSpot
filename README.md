@@ -23,7 +23,7 @@ Below is the architecture of the **CrisisSpot** framework:
 
 
 # TSEqD: Turkey-Syria Earthquake Dataset
-The TSEqD multimodal Twitter dataset is a comprehensive collection of manually annotated comprising 10,352 tweets and associated images obtained during the period from February 6, 2023, to March 16, 2023. TSEqD is annotated for two distinct tasks: Informative Tasks and Humanitarian Tasks. The process of data curation, annotation, and label distribution across various classes is elaborated in subsequent sections, ensuring a comprehensive understanding of the dataset's composition and utility.
+The TSEqD multimodal dataset is a comprehensive collection of manually annotated comprising 10,352 tweets and associated images obtained during the period from February 6, 2023, to March 16, 2023. TSEqD is annotated for two distinct tasks: Informative Tasks and Humanitarian Tasks. The process of data curation, annotation, and label distribution across various classes is elaborated in subsequent sections, ensuring a comprehensive understanding of the dataset's composition and utility.
 
 ## Task 1: Informative vs Not informative
 Task 1 involves identifying and categorizing informative and non-informative content within the TSEqD Dataset. Informative content refers to social media posts that convey meaningful information related to the Turkey-Syria Earthquake. The goal of Task 1 is to label each sample as either informative or non-informative based on the presence or absence of valuable information regarding the earthquake event. This task is crucial for enabling efficient information retrieval, aiding disaster response efforts, and facilitating research on public communication during natural disasters.
@@ -61,7 +61,7 @@ Given the complex nature of multimodal posts, where labels for text and images m
 
 - **No Redistribution**: The dataset must not be redistributed, republished, or shared in any form, whether in full or in part, across any public or private repositories, platforms, or social media. Users must store the dataset in secure environments and ensure that unauthorized parties do not gain access.
 
-- **Compliance with Twitter Policies**: As the dataset is based on publicly available Twitter data, all users must adhere to Twitter’s Developer Agreement and Policy. This includes respecting Twitter’s terms of data usage and user privacy, ensuring that no actions violate Twitter's content redistribution policies.
+- **Compliance with Platform Policies**: As this dataset is derived from publicly available Twitter (now X) data, users must comply with the platform's Developer Agreement and Policies. This includes adhering to data usage and privacy guidelines, ensuring that no actions breach content redistribution rules.
 
 - **Academic Integrity**: The dataset must only be used for legitimate academic research. Researchers are responsible for ensuring that their use of the dataset does not contravene any ethical standards, particularly regarding data privacy and responsible usage.
 
@@ -75,7 +75,7 @@ Once your request is reviewed and approved, you will receive an email with instr
 <html lang="en">
 <body>
 <h1>Citation</h1>
-<p>If you use our work or dataset in your research, please cite it as follows:</p>
+<p>If you find this work useful or use the dataset in your research, please cite it as follows:</p>
 <pre>
 <code id="citation">
 @article{DAR2025125337,
