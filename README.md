@@ -72,7 +72,7 @@ Once your request is reviewed and approved, you will receive an email with instr
 
 ## Precomputed Embeddings
 
-We are providing the precomputed embeddings for this dataset, which can be directly utilized for various downstream tasks such as classification, clustering, or similarity analysis. These embeddings are optimized for performance and can help accelerate your research by enabling quick experimentation without the need for extensive preprocessing.
+We are providing the precomputed embeddings for this dataset, which can be directly utilized for various downstream tasks. These embeddings are optimized for performance and can help accelerate your research by enabling quick experimentation without the need for extensive preprocessing.
 
 <!DOCTYPE html>
 <html lang="en">
