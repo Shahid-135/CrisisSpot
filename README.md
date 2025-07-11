@@ -66,7 +66,7 @@ Given the complex nature of multimodal posts, where labels for text and images m
 - **Academic Integrity**: The dataset must only be used for legitimate academic research. Researchers are responsible for ensuring that their use of the dataset does not contravene any ethical standards, particularly regarding data privacy and responsible usage.
 
 1. **Important:** Use your **institutional email address** when submitting the form. Requests from personal email addresses will not be considered.
-2. First, please fill up this form: [Consent Form](https://docs.google.com/document/d/1xqshqL6nlss246QZSY6TE0kWtAbhRbxK/edit?usp=sharing&ouid=117095985932126675899&rtpof=true&sd=true), and then upload it in the subsequent form. Then, complete the [Dataset Request Form]( https://docs.google.com/forms/d/e/1FAIpQLSdklbRkvXfqMp9tKQj-Ue1oFy-XKVIkv_DqARgyjwWLJxracg/viewform?embedded=true) with your details.
+2. First, please fill out this [Consent Form](https://docs.google.com/document/d/1xqshqL6nlss246QZSY6TE0kWtAbhRbxK/edit?usp=sharing&ouid=117095985932126675899&rtpof=true&sd=true), and then upload it in the [Dataset Request Form]( https://docs.google.com/forms/d/e/1FAIpQLSdklbRkvXfqMp9tKQj-Ue1oFy-XKVIkv_DqARgyjwWLJxracg/viewform?embedded=true) along with your details.
 
 Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
 
