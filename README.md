@@ -67,7 +67,7 @@ Given the complex nature of multimodal posts, where labels for text and images m
 
 1. Fill out the [Dataset Request Form]( https://docs.google.com/forms/d/e/1FAIpQLSdklbRkvXfqMp9tKQj-Ue1oFy-XKVIkv_DqARgyjwWLJxracg/viewform?embedded=true) with your details.
 2. **Important:** Use your **institutional email address** when submitting the form. Requests from personal email addresses will not be considered.
-3. First, please fill up this form: [Consent Form] (https://docs.google.com/document/d/e/2PACX-1vSMAimyRRwUViCM-SBvRBm42gXhThPoc7tFYPZE16JCOq3i4I07qQoe83m2m35spQ/pub?embedded=true)
+3. First, please fill up this form: [Consent Form](https://docs.google.com/document/d/1xqshqL6nlss246QZSY6TE0kWtAbhRbxK/edit?usp=sharing&ouid=117095985932126675899&rtpof=true&sd=true)
 
 Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
 
